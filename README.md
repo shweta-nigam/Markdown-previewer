@@ -11,14 +11,18 @@ A simple web app to preview Markdown in real-time.
     - Links ([title](http://example.com))
     - Lists (ordered and unordered)
 - A clear button to clear the textarea
+- highlights
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 - Marked.js
-<!-- - Highlight.js -->
+- Highlight.js
 
 ##  link
-live : 
-Repository : 
+live : https://shweta-nigam.github.io/Markdown-previewer/
+Repository : https://github.com/shweta-nigam/Markdown-previewer
+
+## how It looks
+![Project Image](./img.png)
